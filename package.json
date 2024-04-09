@@ -1,0 +1,19 @@
+{
+  "name": "tr-simplecalculator",
+  "version": "1.0.2",
+  "description": "This is simplecalculator Assigment",
+  "main": "cal.js",
+  "type": "module",
+  "bin": {
+    "tr-simplecalculator": "cal.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "M Talha",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  }
+}
